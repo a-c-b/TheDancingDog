@@ -35,12 +35,15 @@ More importantly though, there was a "Price Point Cheat Sheet" with which the ow
 
 
 ## Building the Forecast
+
+#### Developing the Financial Basics:
 [Once the products had been categorized](figure/PricePointExample.png), the next step in developing the financials for the business plan was to see how many units needed to be sold of what type of liquor over a period of time.  The plan had a 7 year ROI window, but the Sales Expense Proforma required only a five year window.  Capital Costs were captured and a Twelve-Month Cash Flow were used for planning the capital expenditures and expenses.
 
 One of the most useful sources of information in developing this analysis came from the website [RestaurantOwner.com](http://www.restaurantowner.com/).  While this exceptional site did not have forecasts and analytics, it had basic Excel templates for the business plan financials as well as a trove of information for ["Rules of Thumb"](http://www.restaurantowner.com/members/Restaurant-Rules-of-Thumb-Industry-Averages-Standards.cfm?sd=71) values for **Investment**, such as Sales to Investment = Annual Sales /Startup Cost; **Profitability**:Sales per square foot;  **Percentage of Cost Rules of Thumb**  Their "At a Glance" was used to evaluate various business "opportunities" offered to the owners by brokers and landlords.
 
 These "Rules of Thumb" became "the rules" for limiting unknowns within the **Goods Basis** with an additional 10% added on. The Goods Basis included rent, NNN, utilities, wages + benefits, the loan, etc.  
 
+#### Average Cost per Serving Size
 The 12 types of liquor were then reduced to 6 categories:  beer, cider, whisky, scotch, tequila, and "other".  An **average cost per serving size** was then determined.  To get to this number, first "average serving sizes" had to be determined.  
 
 >The Dancing Dog is a Seattle version of the American Craft movement in drinking establishments.  As a venue, it will highlight craft beers and ciders along with Northwest glassed wines and locally made craft liquors along with a few premium favorites.
@@ -63,7 +66,32 @@ versus:
 ![Distribution Table 2](figure/d2.png)
 ![](figure/c2.png)
 
-The other part of the forecast was based upon the maximum number of people the bar could have based upon size and the number of bathrooms, i.e., what the ratings are:
+#### Hours of Operation
+The other part of the forecast was based upon the maximum number of people the bar could have based upon size and the number of bathrooms, i.e., what the Max Occupancy of the space would be.  With that maximum number minus employees input, a table with the expected % of drinks sold per hour based upon that number was made.  Again, the owners could manipulate the number of days they were open and the % of total capacity that drinks would be sold.  So while the above charts were based upon Tuesday closed data:
+
+![](figure/lp.png)
+
+if they opened on Tuesdays with the same distribution as expected on Mondays, they could potentially see:
+
+![](figure/d3.png)
+![](figure/c3.png)
+
+#### Rates of Growth
+The final points to the forecast were generating the expected rates of growth, accommodating seasonality, and adding additional variances to the expected monthly maximums.  Additional webscraping was done to create the growth rates.  So the data from the [Washington Beer & Wine Distributors Association](http://www.wbwwa.com/beerwinesales.htm) was pulled, tidied, and charted.  Trend lines were applied.  Beer growth showed a linear trend, but cider required a polynomial trend applied to it.
+
+![](figure/w1.png)
+![](figure/ci1.png)
+![](figure/wi1.png)
+
+The lack of growth in wine sales was a primary reason why wine was not given a bigger portion of the sales projections.  Efforts were not made to explore more than a few samples of locally produced, organic wines while cider's growth drove its introduction onto the menu.
+
+#### The Final 5-Year Forecast
+The final 60 month forecast allowed for a great deal of flexibility in planning.  It did not follow the traditional "Restaurant" model of forecasting, but one derived from the telecommunications industry.  This allowed for greater flexibility in product selection, pricing choice, as well as a better understanding of the size required to support the income projections.  While [RestaurantOwner.com](http://www.restaurantowner.com/) did have a sales projection worksheet, it was based upon traditional table turns.  A snapshot is not shown here because of copyright issues.  
+
+![](figure/f1.png)
+
+
+However, their sales projection worksheet did bring up the factor of food which was found to have a significant impact on profitability.  A new iteration of projections began.  The final product (minus financials) is located [here.](figure/Business Plan - no financials.pdf)
 
 
 
