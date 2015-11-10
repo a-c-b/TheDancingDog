@@ -2,7 +2,7 @@
 
 ###  A Classification Problem
 
-This repository contains the documentation of the creation of the financial portion of a business plan of The Dancing Dog, a craft beer bar with quick serve food which was to be developed in Seattle, Washington.  
+This repository contains the documentation of the creation of the financial portion of a business plan for The Dancing Dog, a craft beer bar with quick serve food which was to be developed in Seattle, Washington.  
 
 The creation of the business plan originated with forecast in order check the feasibility of the effort.  As there was no access to wholesale pricing, the business case was built upon webscraped retail data on December 9, 2013.  By webscraping the webpages of a liquor retailer with a similar demographic as targeted by the owners of The Dancing Dog, the retail pricing structure (without SLT) was binned into the four price categories of Well, Call, Premium, and Super Premium.  The products within these four price categories were then compared to a venue of similar demographics which had their bar selection and pricing online.  Taxes, credit card charges, etc. were later included in the business model, however, for the purposes of forecasting taxes were not included.
 
