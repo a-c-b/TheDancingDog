@@ -91,7 +91,7 @@ The final 60 month forecast allowed for a great deal of flexibility in planning.
 ![](figure/f1.png)
 
 
-However, their sales projection worksheet did bring up the factor of food which was found to have a significant impact on profitability.  A new iteration of projections began.  The final product (minus financials) is located [here.](figure/Business Plan - no financials.pdf)
+However, their sales projection worksheet did bring up the factor of food which was found to have a significant impact on profitability.  A new iteration of projections began.  The final product (minus financials) is located [here.](Business Plan - no financials.pdf)
 
 
 
