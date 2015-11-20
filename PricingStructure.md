@@ -8,7 +8,7 @@ The process of creating the business plan originated with a feasibility study an
 
 ###Process 
 
-The result of the web-scraped analysis crossed 11,692 products across 12 liquor-related groups (*Liquerus/Cordials, Tequila, Beer, Cider, Eau de vies, brandies, and other spirits, Gin, Rum, Scotch, Vermouth, Voda, Whiskey, Wine*) for the four price categories of: "Well," "Call", "Premium", and "Super-Premium":
+The result of the web-scraped analysis crossed 11,692 products across 12 liquor-related groups (*Liquers/Cordials, Tequila, Beer, Cider, Eau de vies, brandies, and other spirits, Gin, Rum, Scotch, Vermouth, Voda, Whiskey, Wine*) for the four price categories of: "Well," "Call", "Premium", and "Super-Premium":
 ![histogram of liquor distributions](figure/binned_liquors.png)
 
 The tool used for the webscrape, cleaning, and analysis used was Excel 2007.  Once the data was scraped and tidied, then the process of getting to the price per ounce (PPOz) began.  
