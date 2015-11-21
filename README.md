@@ -11,8 +11,7 @@ The process of creating the business plan originated with a feasibility study an
 3.  The [Excel summary of the Market Analysis data is here](demographics for business plan.xlsx).  Of course, the exploratory workbook was very ugly, so this is a cleaned up copy from which the PowerPoint and the 3D movie tour was made.  
 4.  [Here is the 3D movie tour](3D Tour of Real Estate Scores.mp4) of some of the demographic data combined with the geolocation information.  It is an .mp4 file.
 5.  [Here is the Final Five selection along with the final criteria list.](DD FinalFive.mp4)  It too is .mp4.
-
-8.[The Dancing Dog Business Plan](Business Plan - no financials.pdf).  You will need to download the file to view it.
+6.  [The Dancing Dog Business Plan](Business Plan - no financials.pdf).  You will need to download the file to view it.
 
 
 
