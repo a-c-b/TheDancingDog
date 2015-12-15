@@ -13,6 +13,8 @@ The process of creating the business plan originated with a feasibility study an
 6.  [The Dancing Dog Business Plan](Business Plan - no financials.pdf).  You will need to download the file to view it.
 
 
+[Return to Portfolio Index "ReadMe"](https://github.com/andrea345/Portfolio/blob/master/README.md)
+
 
 
 
