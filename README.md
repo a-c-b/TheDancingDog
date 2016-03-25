@@ -1,5 +1,5 @@
 # The Dancing Dog business plan
-### Author:  Andrea Brice
+### Author:  A.C. Brice
 
 This repository contains the documentation of the business plan created for the owners of The Dancing Dog, a craft beer bar with quick serve food which was to be developed in Seattle, Washington.  
 
