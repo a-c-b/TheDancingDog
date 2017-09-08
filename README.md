@@ -10,7 +10,7 @@ The process of creating the business plan originated with a feasibility study an
 3.  The [Excel summary of the Market Analysis data is here](https://github.com/a-c-b/TheDancingDog/blob/master/demographics%20for%20business%20plan.xlsx).  Of course, the exploratory workbook was very ugly, so this is a cleaned up copy from which the PowerPoint and the 3D movie tour was made.  
 4.  [Here is the 3D movie tour](https://github.com/a-c-b/TheDancingDog/blob/master/3D%20Tour%20of%20Real%20Estate%20Scores.mp4) of some of the demographic data combined with the geolocation information.  It is an .mp4 file.
 5.  [Here is the Final Five selection along with the final criteria list.](https://github.com/a-c-b/TheDancingDog/blob/master/DD%20FinalFive.mp4)  It too is .mp4.
-6.  [The Dancing Dog Business Plan](https://github.com/a-c-b/TheDancingDog/blob/master/Business%20Plan%20-%20no%20financials.pdf.  You will need to download the file to view it.
+6.  [The Dancing Dog Business Plan](https://github.com/a-c-b/TheDancingDog/blob/master/Business%20Plan%20-%20no%20financials.pdf).  You will need to download the file to view it.
 
 
 [Return to Portfolio Index "ReadMe"](https://github.com/andrea345/Portfolio/blob/master/README.md)
